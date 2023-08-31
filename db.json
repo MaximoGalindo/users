@@ -2,12 +2,12 @@
   "users": [
     {
       "id": 1,
-      "email": jPerez@gmail.com,
+      "email": "jPerez@gmail.com",
       "password": 123456
     },
     {
       "id": 2,
-      "email": aGonzalez@gmail.com,
+      "email": "aGonzalez@gmail.com",
       "password": 654123
     }
   ],
