@@ -10,5 +10,25 @@
             "email": "aGonzalez@gmail.com",
             "password": 654123
         }    
+    ],  
+    "portafolio": [
+        {
+            "user_id": 1,
+            "id": 1,
+            "accion": "AAPL (Apple Inc.)",
+            "cantidad": 10,
+            "valor": 10000,
+            "ganancia": 2500,
+            "perdida": 0
+        },
+        {
+            "user_id": 1,
+            "id": 2,
+            "accion": "GOOGL (Alphabet Inc.)",
+            "cantidad": 5,
+            "valor": 7500,
+            "ganancia": 0,
+            "perdida": 1000
+        }
     ]
 }
