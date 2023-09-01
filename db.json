@@ -1,21 +1,7 @@
 {
-    "users": [
-        {   
-            "id": 1,
-            "email": "jPerez@gmail.com",
-            "password": 123456,
-            "token": "abc"
-        },
-        {
-            "id": 2,
-            "email": "aGonzalez@gmail.com",
-            "password": 654123,
-            "token": "cba"
-        }    
-    ],  
     "portafolio": [
         {
-            "user_email": "jPerez@gmail.com",
+            "user_token": "QpwL5tke4Pnpja7X4",
             "id": 1,
             "accion": "AAPL (Apple Inc.)",
             "cantidad": 10,
@@ -24,7 +10,7 @@
             "perdida": 0
         },
         {
-            "user_email": "jPerez@gmail.com",
+            "user_token": "QpwL5tke4Pnpja7X4",
             "id": 2,
             "accion": "GOOGL (Alphabet Inc.)",
             "cantidad": 5,
