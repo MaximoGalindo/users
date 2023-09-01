@@ -1,19 +1,17 @@
 {
     "users": [
         {
-            "id": 1,
             "email": "jPerez@gmail.com",
             "password": 123456
         },
         {
-            "id": 2,
             "email": "aGonzalez@gmail.com",
             "password": 654123
         }    
     ],  
     "portafolio": [
         {
-            "user_id": 1,
+            "user_email": "jPerez@gmail.com",
             "id": 1,
             "accion": "AAPL (Apple Inc.)",
             "cantidad": 10,
@@ -22,7 +20,7 @@
             "perdida": 0
         },
         {
-            "user_id": 1,
+            "user_email": "jPerez@gmail.com",
             "id": 2,
             "accion": "GOOGL (Alphabet Inc.)",
             "cantidad": 5,
