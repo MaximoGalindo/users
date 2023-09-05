@@ -1,26 +1,27 @@
 {
-    "portafolio": [
-            
-          "user_token": "QpwL5tke4Pnpja7X4"[
-              "saldoCuenta": 1,011,500,
-              "totalInvertido": 17500
-             {         
-                "id": 1,
-                "accion": "AAPL (Apple Inc.)",
-                "cantidad": 10,
-                "valor": 10000,
-                "ganancia": 2500,
-                "perdida": 0
-            },
-            {           
-                "id": 2,
-                "accion": "GOOGL (Alphabet Inc.)",
-                "cantidad": 5,
-                "valor": 7500,
-                "ganancia": 0,
-                "perdida": 1000
-            }
-          ]
-   
-    ]
+  "portafolio": [
+    {
+      "user_token": "QpwL5tke4Pnpja7X4",
+      "saldoCuenta": 1011500,
+      "totalInvertido": 17500,
+      "acciones": [
+        {
+          "id": 1,
+          "accion": "AAPL (Apple Inc.)",
+          "cantidad": 10,
+          "valor": 10000,
+          "ganancia": 2500,
+          "perdida": 0
+        },
+        {
+          "id": 2,
+          "accion": "GOOGL (Alphabet Inc.)",
+          "cantidad": 5,
+          "valor": 7500,
+          "ganancia": 0,
+          "perdida": 1000
+        }
+      ]
+    }
+  ]
 }
