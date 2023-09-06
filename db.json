@@ -8,6 +8,7 @@
         {
           "id": 1,
           "accion": "AAPL (Apple Inc.)",
+          "valorAccion": 1000,
           "cantidad": 10,
           "valor": 10000,
           "ganancia": 2500,
@@ -16,6 +17,7 @@
         {
           "id": 2,
           "accion": "GOOGL (Alphabet Inc.)",
+          "valorAccion": 1500,
           "cantidad": 5,
           "valor": 7500,
           "ganancia": 0,
